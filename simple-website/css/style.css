@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.float-container{
+    height:300px;
+    /* border: 3px solid #fff; */
+    padding: 20px;
+}
+
+.float-child {
+    width: 40%;
+    float: left;
+    padding: 20px;
+    /* border: 2px solid red; */
+}
+
+.float-child1 {
+    width: 30%;
+    float: left;
+    padding: 20px;
+    /* border: 2px solid red; */
+}
+.float-child2 {
+    width: 30%;
+    float: right;
+    padding: 20px;
+    /* border: 2px solid red; */
+}
+
+.float-tabs {
+    border: 2px solid #4d4c4c25;
+    padding: 20px;
+}
+
+h1 {
+    color:#4d4c4c;
+}
+
+.grey-text {
+    color:#4d4c4c;
+}
+
+.main-img {
+    width: 50%;
+    border-radius: 50%;
+}
